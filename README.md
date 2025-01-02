@@ -1,0 +1,1 @@
+# Handwriting-recognition-using-CNN-and-OCR-technic-
