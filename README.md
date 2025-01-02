@@ -22,8 +22,6 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-repository/handwriting-recognition-system.git
-cd handwriting-recognition-system
 Install Tesseract OCR: Follow the official instructions.
 
 Configure Tesseract in Python: Locate the Tesseract executable. For example:
