@@ -22,6 +22,7 @@ Clone the Repository:
 
 bash
 Copy code
+https://github.com/Akif2206/Handwriting-recognition-using-CNN-and-OCR-technic-.git
 Install Tesseract OCR: Follow the official instructions.
 
 Configure Tesseract in Python: Locate the Tesseract executable. For example:
